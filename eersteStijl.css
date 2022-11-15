@@ -1,0 +1,139 @@
+	h1	{
+	text-align: center;
+	font-family: Times New Roman, Times, Georgia;
+	font-size: 250%;
+	color: #023020;
+	}
+	h1.biden	{
+	text-align: center;
+	font-family: Times New Roman, Times, Georgia;
+	font-size: 250%;
+	color: #023020;
+	}
+
+h2	{
+	text-align: center;
+	font-family: Times New Roman, Times, Georgia;
+	font-size: 180%;
+	color: #023020;
+}
+
+p	{
+	text-align: justify;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 100%;
+	color: #023020;
+	 padding: 20px;
+}
+p.intro{
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 120%;
+	color: black;
+	background-color: #FFFFFF;
+
+}
+body{
+	font-size: 100%;
+	
+}
+header#intro{
+	font-size: 250%;
+	width: 1250px;  
+	
+	
+}
+
+article{
+	background-color: #FFFFFF;
+	height: 1800px;
+	width: 800px;
+	float: left;
+	}
+nav{
+	background-color: #FFFFFF;
+	width: 1200px;
+	height: 150px;
+	text-align: center;
+	}
+section{
+	background-color: #FFFFFF;
+	width: 900px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	}
+aside{
+	background-color: #FFFFFF;
+	height: 1800px;
+	width: 414px;
+	float: right;
+	}
+footer{
+	position: fixed;
+	bottom: 0;
+	background-color: #clear;
+	color: #000000;
+	}
+
+a.nav{
+	display: inline-block;
+	background-color: #1982FF;
+	border-right: grey solid 1px;
+	color: white;
+	text-decoration: none;
+	padding: 1em;
+	width: 100px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+}
+li a:hover{
+	border-right: orange solid 1px;
+	background-color: #0051B2;
+}
+a.aside:link{
+	color: #000000;
+	text-decoration: none;
+	display: inline-block;
+	background-color: #FFFFFF;
+	border: black solid 3px;
+	padding: 1em;
+	width: 100px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-color: black;
+}
+a.aside:visited{
+	color:  #800080;
+	text-decoration: none;
+	border: black solid 3px;
+}
+a.aside:hover{
+	color: #0051B2;
+	text-decoration: underline;
+	border: black solid 3px;
+}
+a.aside:active{
+	color: #0000FF;
+	text-decoration: none;
+	border: black solid 3px;
+}
+
+
+aside img{
+	border-radius: 45%;
+}
+#wrapper {
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+a.intext{
+	color: blue;
+	text-decoration: underline;
+}
+
+
+
+/*Gemaakt in 2022*/
